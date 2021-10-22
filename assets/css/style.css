@@ -682,3 +682,44 @@ CSS DE ÁREAS ESPECÍFICAS
     justify-content: center;
     align-items: center;
 }
+
+.section-facts {
+    display: flex;
+}
+
+.section-fact {
+    flex: 1;
+    text-align: center;
+    padding: 15px;
+}
+
+.section-fact hr {
+    width: 15px;
+    height: 3px;
+    background-color: #999;
+}
+
+.section-fact--border {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-fact h3 {
+    font-size: 40px;
+    color: #B28756;
+}
+
+.section-fact h4 {
+    margin-top: 10px;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.section-fact p {
+    margin-top: 10px;
+    padding-top: 20px;
+    font-size: 13px;
+    color: #999;
+}
+
