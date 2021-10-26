@@ -1,6 +1,6 @@
 # Avax Front-End
 
-## Status: Em desenvolvimento ⚠️
+## Status: Concluído ✔️
 
 Este foi um projeto desenvolvido durante o curso B7web.<br><br>
 [Link para o Site](https://arthuralbuquerquem.github.io/avax-front-end/)
@@ -13,3 +13,23 @@ Este foi um projeto desenvolvido durante o curso B7web.<br><br>
 
 - HTML
 - CSS
+
+## Imagens:
+
+### Mobile
+
+<p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/89046894/138907251-559b8f1d-6184-43d5-b7d2-5190980db601.png">
+</p>
+
+### Tablet
+  
+  <p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/89046894/138908716-7896b857-41e3-4c9c-902e-e40381a8f1e6.png">
+</p>
+
+### PC
+
+<p align="center" width="100%">
+    <img src="https://user-images.githubusercontent.com/89046894/138906652-4695a0ed-82ad-4d6f-a726-34764b07f448.png">
+</p>
