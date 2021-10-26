@@ -1147,6 +1147,10 @@ CSS DE ÁREAS ESPECÍFICAS
         border-right: 0px;
     }
 
+    .section-service {
+        border-right: 0px;
+    }
+
     .section-projects--filters {
         margin-left: 30px;
         margin-right: 30px;
