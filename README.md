@@ -7,29 +7,18 @@ Este foi um projeto desenvolvido durante o curso B7web.<br><br>
 
 ## Créditos:
 
-- Layout por: [Alex Bukin](https://www.behance.net/gallery/58301549/Free-Landing-Page).
+- Layout por: [Alex Bukin](https://arthuralbuquerquem.github.io/bateria/).
 
 ### Tecnologias Usadas:
 
 - HTML
 - CSS
+- JavaScript
 
 ## Imagens:
 
-### Mobile
+### Demonstração do funcionamento
 
-<p align="center" width="100%">
-    <img src="https://user-images.githubusercontent.com/89046894/138907251-559b8f1d-6184-43d5-b7d2-5190980db601.png">
-</p>
-
-### Tablet
-  
-  <p align="center" width="100%">
-    <img src="https://user-images.githubusercontent.com/89046894/138908716-7896b857-41e3-4c9c-902e-e40381a8f1e6.png">
-</p>
-
-### PC
-
-<p align="center" width="100%">
-    <img src="https://user-images.githubusercontent.com/89046894/138906652-4695a0ed-82ad-4d6f-a726-34764b07f448.png">
+<p width="100%">
+    <img src="https://user-images.githubusercontent.com/89046894/166394105-659cb908-f6d7-4f9a-a2d1-3b17c3a855ef.gif">
 </p>
